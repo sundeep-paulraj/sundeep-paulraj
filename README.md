@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, DevSecOps, SRE, Bioinfomratics projects
 - 🌱 I’m currently learning Rancher products for managing Kubernetes at scale
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me at pastel-premiers.0x@icloud.com
 
 <!---
 sundeep-paulraj/sundeep-paulraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
